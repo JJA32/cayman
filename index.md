@@ -97,8 +97,7 @@ end
 
 ### Large image
 
-![food]((IMG_1367.jpg))
-
+![Tacoma](images/untitled%20folder/Tacoma.jpeg)
 
 ### Definition lists can be used with HTML syntax.
 
