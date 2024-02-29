@@ -51,10 +51,10 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Class        | Description        | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| out of stock | Twix   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
