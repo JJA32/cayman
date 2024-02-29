@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi this is Efrain Ignacio
 
 [Link to another page](http://weber.edu)).
 
@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Tacoma](![alt text](E0CB2A27-1C00-47DC-84B5-038721E4E706_1_105_c.jpeg))
 
 
 ### Definition lists can be used with HTML syntax.
