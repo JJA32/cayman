@@ -36,7 +36,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -98,7 +97,7 @@ end
 
 ### Large image
 
-![Tacoma](![alt text](E0CB2A27-1C00-47DC-84B5-038721E4E706_1_105_c.jpeg))
+![Tacoma]((E0CB2A27-1C00-47DC-84B5-038721E4E706_1_105_c.jpeg))
 
 
 ### Definition lists can be used with HTML syntax.
