@@ -31,8 +31,8 @@ To use the Cayman theme:
 Cayman will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Food & Drinks]
+description: [Food encountered]
 ```
 
 Additionally, you may choose to set the following optional variables:
