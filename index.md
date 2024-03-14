@@ -5,8 +5,8 @@ layout: default
 Hi this is Efrain Ignacio
 
 [Link to another page](http://weber.edu)).
+[Link to another page](https://www.yelp.com/biz/il-diavolo-guadalajara-2)
 
-There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
