@@ -34,12 +34,14 @@ Cayman will respect the following variables, if set in your site's `_config.yml`
 title: [Food & Drinks] '_config.yml'
 [Food & Drinks]`_config.yml'
 description: [Food encountered]`_config.yml`
+[Food encountered]`_config.yml`
 ```
 
 Additionally, you may choose to set the following optional variables:
 
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+false
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
