@@ -32,6 +32,7 @@ Cayman will respect the following variables, if set in your site's `_config.yml`
 
 ```yml
 title: [Food & Drinks] '_config.yml'
+[Food & Drinks]`_config.yml'
 description: [Food encountered]`_config.yml`
 ```
 
