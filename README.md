@@ -41,7 +41,7 @@ Additionally, you may choose to set the following optional variables:
 
 ```yml
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-false
+"false"
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
